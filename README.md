@@ -1,7 +1,7 @@
 # Kth Shortest Path
 
 ## Overview
-This project implements the **Kth Shortest Path** algorithm using parallel computing techniques. It includes both C and Python implementations and utilizes datasets such as email communication records and character mappings.
+This project implements the **Kth Shortest Path** algorithm using parallel computing techniques (OpenMP and MPI). It includes both C and Python implementations and utilizes datasets such as email communication records and character mappings.
 
 ## Features
 - Parallel computation of path lengths (`length_parallel.c`)
